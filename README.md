@@ -32,7 +32,7 @@
 
 ## 📚 Other Knowledge (Not core focus)
 <p align="left">
-<img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" height="40"/>
 </p>
 
 ---
