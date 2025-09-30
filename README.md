@@ -5,9 +5,7 @@
   </h1>
   <h3>Data Analyst 
       </h1>
-</p>
 
----
   Python | SQL | Power BI | Excel </h3>
 
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
