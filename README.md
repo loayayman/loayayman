@@ -2,11 +2,11 @@
   <h1>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
     Hi, I'm Loay Ayman
-  </h1>
   <h3>Data Analyst 
       </h1>
 
   Python | SQL | Power BI | Excel </h3>
+      </h1>
 
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </div>
