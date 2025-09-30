@@ -4,7 +4,7 @@
     Hi, I'm Loay Ayman
   </h1>
   <h3>Data Analyst 
-      </h2>
+      </h1>
 
   Python | SQL | Power BI | Excel </h3>
 
