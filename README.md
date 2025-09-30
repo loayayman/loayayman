@@ -5,6 +5,7 @@
   </h1>
   <h3>Data Analyst 
       </h1>
+  ---
 
   Python | SQL | Power BI | Excel </h3>
 
