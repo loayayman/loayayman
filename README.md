@@ -31,13 +31,12 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats-yourname.vercel.app/api?username=loayayman&show_icons=true&theme=radical" alt="GitHub Stats" width="350"/>
+  <img src="https://github-readme-stats-mu.vercel.app/api?username=loayayman&show_icons=true&theme=radical" alt="GitHub Stats" width="350"/>
 
   <br>
 
-  <img src="https://github-readme-stats-yourname.vercel.app/api/top-langs/?username=loayayman&layout=compact&theme=radical" alt="Top Langs" height="160"/>
+  <img src="https://github-readme-stats-mu.vercel.app/api/top-langs/?username=loayayman&layout=compact&theme=radical" alt="Top Langs" height="160"/>
 </div>
-
 
 
 ---
