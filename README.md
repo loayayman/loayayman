@@ -40,7 +40,6 @@
   <br>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=loayayman&theme=radical&hide_border=true" alt="GitHub Streak" width="400"/> 
-</div>
 ---
 ## 🌐 Contact with me
 
