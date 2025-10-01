@@ -31,11 +31,9 @@
 
 ## 📊 GitHub Stats
 <div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=loayayman&show_icons=true&theme=radical" alt="GitHub Stats" width="350"/> 
-  
-  <br> 
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loayayman&layout=compact&theme=radical" alt="Top Langs" height="160"/> </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=loayayman&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loayayman&layout=compact&theme=radical" alt="Top Langs" height="165"/> 
+</div>
 
 ---
 ## 🌐 Contact with me
