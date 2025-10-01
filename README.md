@@ -35,7 +35,7 @@
 
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loayayman&layout=compact&theme=radical" alt="Top Langs" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loayayman&layout=compact&theme=radical" alt="Top Langs" height="160"/>
 </div>
 
 
