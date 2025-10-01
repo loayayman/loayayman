@@ -39,9 +39,11 @@
 
 ---
 ## 🌐 Contact with me
-<a href="mailto:loayayman@gmail.com" target="_blank" style="text-decoration:none;">
+<a 
+    <a href="https://www.linkedin.com/in/mohamed-ali505/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  href="mailto:loayayman@gmail.com" target="_blank" style="text-decoration:none;">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40" height="40"/>
 
-  <a href="https://www.linkedin.com/in/mohamed-ali505/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+
 </a>
