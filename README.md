@@ -42,10 +42,13 @@
 
 
 ---
-
 ## 🌐 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/loayaymaan/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
+  <a href="mailto:loayayman@gmail.com" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/>
+  </a>
 </p>
+
