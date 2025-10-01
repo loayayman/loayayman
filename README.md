@@ -50,5 +50,6 @@
   <a href="mailto:loayayman@gmail.com" target="blank" style="text-decoration:none;">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/>
   </a>
+</p>
 
 
