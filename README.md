@@ -49,4 +49,4 @@
   </a>
 <a href="mailto:loayaymaan@gmail.com" target="_blank" style="text-decoration:none;">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40" height="40"/>
-</a></p>
+</p>
