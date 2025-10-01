@@ -38,6 +38,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loayayman&layout=compact&theme=radical" alt="Top Langs" height="160"/> </div>
 
 ---
+## 🌐 Contact with me
+
 <a href="https://www.linkedin.com/in/loayaymaan/" target="_blank" style="text-decoration:none; margin-right: 10px;">
   <i class="fab fa-linkedin" style="font-size: 40px; color: #0077b5;"></i>
 </a>
