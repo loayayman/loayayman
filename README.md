@@ -31,18 +31,18 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=loayayman&show_icons=true&theme=radical" alt="GitHub Stats" width="350"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=loayayman&show_icons=true&theme=radical" alt="GitHub Stats" width="350"/>
 
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loayayman&layout=compact&theme=radical" alt="Top Langs" height="160"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=loayayman&layout=compact&theme=radical" alt="Top Langs" height="160"/>
 </div>
 
 
 
 
 ---
-## 🌐 Connect with me
+## 🌐 Contact with me
 <p align="left">
   <a href="https://www.linkedin.com/in/loayaymaan/" target="blank" style="text-decoration:none;">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
