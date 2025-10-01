@@ -43,12 +43,12 @@
 
 ---
 ## 🌐 Connect with me
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loayayman &show_icons=true&locale=en&layout=compact" alt="loayayman" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loayayman&show_icons=true&locale=en" alt="loayayman" /></p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/loayaymaan/" target="blank" style="text-decoration:none;">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
   <a href="mailto:loayayman@gmail.com" target="blank" style="text-decoration:none;">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/>
   </a>
 </p>
-
 
