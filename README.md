@@ -48,10 +48,8 @@
 
 <p align="left">
 <a href="mailto:yourname@gmail.com" target="_blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" width="40" height="40"/>
-</a>
-
-    
+  <img align="center" src="IMAGE_URL_HERE" alt="Gmail" width="40" height="40"/>
+</a>  
   <a href="https://www.linkedin.com/in/loayaymaan/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
  
