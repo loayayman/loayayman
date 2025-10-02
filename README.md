@@ -47,9 +47,10 @@
 ## 🌐 Contact with me
 
 <p align="left">
-<a href="mailto:yourname@gmail.com" target="_blank">
-  <img align="center" src="IMAGE_URL_HERE" alt="Gmail" width="40" height="40"/>
-</a>  
+  <a href="mailto:yourname@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gmail_icon_%282020%29.svg/64px-Gmail_icon_%282020%29.svg.png" width="28" height="28" alt="Gmail" />
+</a>
+
   <a href="https://www.linkedin.com/in/loayaymaan/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
  
