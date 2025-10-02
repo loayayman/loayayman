@@ -15,17 +15,17 @@
 ## 🛠️ Core Languages & Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/numpy.png" width="40" height="40"/> <!-- NumPy -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" alt="Seaborn logo"/>
   <img src="https://img.icons8.com/color/48/000000/matplotlib.png" width="40" height="40"/> <!-- Matplotlib -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png" width="40" height="40"/> <!-- Excel -->
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40"/> <!-- Power BI -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png" width="40" height="40"/> <!-- Excel -->
-  <img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40"/> <!-- Power BI -->
 </p>
 
 ---
