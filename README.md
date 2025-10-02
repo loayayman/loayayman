@@ -24,8 +24,8 @@
   <img src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png" width="40" height="40"/> <!-- Excel -->
   <img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40"/> <!-- Power BI -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 </p>
 
 ---
@@ -46,9 +46,8 @@
 ---
 ## 🌐 Contact with me
 
-<p align="left">
-  <a href="mailto:yourname@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gmail_icon_%282020%29.svg/64px-Gmail_icon_%282020%29.svg.png" width="28" height="28" alt="Gmail" />
+<a href="mailto:yourname@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail icon" width="28" height="28" />
 </a>
 
   <a href="https://www.linkedin.com/in/loayaymaan/" target="blank">
