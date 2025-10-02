@@ -47,7 +47,7 @@
 ## 🌐 Contact with me
 
 <a href="mailto:yourname@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail icon" width="28" height="28" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail icon" width="40" height="40" />
 </a>
 
   <a href="https://www.linkedin.com/in/loayaymaan/" target="blank">
