@@ -4,10 +4,8 @@
     Hi, I'm Loay Ayman
   <h3>Data Analyst
     </h3>
-<!-- 
   Python | SQL | Power BI | Excel </h3>
       </h1>
--->
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </div>
 
