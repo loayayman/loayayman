@@ -18,6 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/numpy.png" width="40" height="40"/> <!-- NumPy -->
   <img src="https://img.icons8.com/color/48/000000/matplotlib.png" width="40" height="40"/> <!-- Matplotlib -->
+  <img src="https://img.icons8.com/color/48/000000/matplotlib.png](https://digipedia.tudelft.nl/app/uploads/2024/09/logos-jupyter.png" width="40" height="40"/> <!-- Jupyter -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
   <img src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png" width="40" height="40"/> <!-- Excel -->
