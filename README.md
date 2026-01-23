@@ -14,18 +14,19 @@
 
 ## 🛠️ Core Languages & Tools
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/> <!-- Pandas -->
   <img src="https://img.icons8.com/color/48/000000/numpy.png" width="40" height="40"/> <!-- NumPy -->
   <img src="https://img.icons8.com/color/48/000000/matplotlib.png" width="40" height="40"/> <!-- Matplotlib -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://i0.wp.com/datamodel.com/wp-content/uploads/2025/05/ssms_21.png?w=512&ssl=1" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> <!-- MySQL -->
+  <img src="https://i0.wp.com/datamodel.com/wp-content/uploads/2025/05/ssms_21.png?w=512&ssl=1" width="40" height="40"/> <!-- SSMS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/> <!-- PostgreSQL -->
   <img src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png" width="40" height="40"/> <!-- Excel -->
-  <img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40"/> <!-- Power BI -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/> <!-- Power BI -->
+  <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" width="40" height="40"/> <!-- Tableau -->
+ <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> <!-- GitHub -->
 </p>
 
 ---
