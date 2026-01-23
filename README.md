@@ -43,10 +43,11 @@
 ## 🌐 Contact with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/loayaymaan/" target="text-decoration:none;">
+  <a href="https://www.linkedin.com/in/loayaymaan/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-<a href="mailto:loayaymaan@gmail.com" target="_blank" style="text-decoration:none;">
+
+  <a href="mailto:loayaymaan@gmail.com" target="_blank" style="blank">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40" height="40"/>
 </a>
 </p>
