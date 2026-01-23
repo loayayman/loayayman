@@ -23,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/> <!-- PostgreSQL -->
   <img src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png" width="40" height="40"/> <!-- Excel -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/> <!-- Power BI -->
-  <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" width="40" height="40"/> <!-- Tableau -->
+  <img src="https://www.pngwing.com/en/free-png-aztab" width="40" height="40"/> <!-- Tableau -->
  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> <!-- GitHub -->
